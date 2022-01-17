@@ -25,7 +25,7 @@ New-Item -Path 'P:\Documenten\Notulen\ReadMe.txt' -ItemType File -value 'uitslui
 
 Kopieeren van de ene folder naar andere folder
 
-Copy-folder 'P:\Documenten\Test' 'P:\backupmap'
+Copy-folder 'P:\Documenten' 'P:\backupmap'
 Copy-item
 
 testen van een folder
